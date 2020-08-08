@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdb0eb60d26d99ba737b87178544eae2",
+    "revision": "d108d1a57added52e07c9595d3788fcb",
     "url": "/wedding/index.html"
   },
   {
-    "revision": "6736c9979721baae9dcc",
-    "url": "/wedding/static/css/main.62eb1b76.chunk.css"
+    "revision": "17436353329a514b4708",
+    "url": "/wedding/static/css/main.b57de03a.chunk.css"
   },
   {
-    "revision": "a547a863e7ccaff60fce",
-    "url": "/wedding/static/js/2.756321d4.chunk.js"
+    "revision": "15b072ea8e6e405905cc",
+    "url": "/wedding/static/js/2.ac026828.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/wedding/static/js/2.756321d4.chunk.js.LICENSE.txt"
+    "url": "/wedding/static/js/2.ac026828.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6736c9979721baae9dcc",
-    "url": "/wedding/static/js/main.5044c157.chunk.js"
+    "revision": "17436353329a514b4708",
+    "url": "/wedding/static/js/main.b6fdd44c.chunk.js"
   },
   {
     "revision": "b50ba5e10c27a25a169d",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9877b25a921f1e2a8a49321ca91c8f0d",
     "url": "/wedding/static/media/arw_right.9877b25a.svg"
-  },
-  {
-    "revision": "96e2fe623d4cab15ec7b081f18cefac9",
-    "url": "/wedding/static/media/btn-close.96e2fe62.svg"
   },
   {
     "revision": "d2df3fbbb16774f32a60559cfc37f435",
@@ -76,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding/static/media/full_15.849d6925.jpg"
   },
   {
-    "revision": "98a8bd1e0af2e4e41e03b13eba5cc508",
-    "url": "/wedding/static/media/full_16.98a8bd1e.jpg"
+    "revision": "8a1ba8a91fa66f2ae002bd402c6cefbf",
+    "url": "/wedding/static/media/full_16.8a1ba8a9.jpg"
   },
   {
-    "revision": "bd4c567b910d65dfff28cc108da08a01",
-    "url": "/wedding/static/media/full_17.bd4c567b.jpg"
+    "revision": "189b5c3416ec6f51a8141b7f28bbac02",
+    "url": "/wedding/static/media/full_17.189b5c34.jpg"
   },
   {
     "revision": "f6e38051c88da860c34a32a3c487b332",
@@ -92,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding/static/media/full_19.bd6c85a3.jpg"
   },
   {
-    "revision": "296edb3af66635fc1928d06782ed9f55",
-    "url": "/wedding/static/media/full_2.296edb3a.jpg"
+    "revision": "18352f96ef98be1003a780ae6d2aa988",
+    "url": "/wedding/static/media/full_2.18352f96.jpg"
   },
   {
     "revision": "4f8633914e21cb895cbfb770f39f1909",
     "url": "/wedding/static/media/full_20.4f863391.jpg"
   },
   {
-    "revision": "a87a8eef76984784e9fc7225e9d29b8b",
-    "url": "/wedding/static/media/full_21.a87a8eef.jpg"
+    "revision": "78dc252af19938d46c2a2a3259dec2ce",
+    "url": "/wedding/static/media/full_21.78dc252a.jpg"
   },
   {
     "revision": "1762f7f590e9c63805d284afdbe517a4",
@@ -132,32 +128,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding/static/media/full_28.b73aaf3a.jpg"
   },
   {
-    "revision": "18352f96ef98be1003a780ae6d2aa988",
-    "url": "/wedding/static/media/full_3.18352f96.jpg"
-  },
-  {
     "revision": "7e95b066c643e19b0439b6a39976c9b0",
-    "url": "/wedding/static/media/full_4.7e95b066.jpg"
-  },
-  {
-    "revision": "8a1ba8a91fa66f2ae002bd402c6cefbf",
-    "url": "/wedding/static/media/full_5.8a1ba8a9.jpg"
-  },
-  {
-    "revision": "189b5c3416ec6f51a8141b7f28bbac02",
-    "url": "/wedding/static/media/full_6.189b5c34.jpg"
-  },
-  {
-    "revision": "78dc252af19938d46c2a2a3259dec2ce",
-    "url": "/wedding/static/media/full_7.78dc252a.jpg"
+    "url": "/wedding/static/media/full_3.7e95b066.jpg"
   },
   {
     "revision": "6cf00d32015c684845d5013bec2283b8",
-    "url": "/wedding/static/media/full_8.6cf00d32.jpg"
+    "url": "/wedding/static/media/full_4.6cf00d32.jpg"
+  },
+  {
+    "revision": "98a8bd1e0af2e4e41e03b13eba5cc508",
+    "url": "/wedding/static/media/full_5.98a8bd1e.jpg"
+  },
+  {
+    "revision": "a87a8eef76984784e9fc7225e9d29b8b",
+    "url": "/wedding/static/media/full_6.a87a8eef.jpg"
+  },
+  {
+    "revision": "bd4c567b910d65dfff28cc108da08a01",
+    "url": "/wedding/static/media/full_7.bd4c567b.jpg"
   },
   {
     "revision": "d2b00fb3671ffa29df9256a6a868a4fb",
-    "url": "/wedding/static/media/full_9.d2b00fb3.jpg"
+    "url": "/wedding/static/media/full_8.d2b00fb3.jpg"
+  },
+  {
+    "revision": "296edb3af66635fc1928d06782ed9f55",
+    "url": "/wedding/static/media/full_9.296edb3a.jpg"
   },
   {
     "revision": "29ac952de8527937f9035e81c1bd29ff",
