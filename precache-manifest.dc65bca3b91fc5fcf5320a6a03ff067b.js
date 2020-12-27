@@ -1,75 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e136d8c5f8dd6fe51d85267efee53c75",
+    "revision": "3aa3c8fc1e21fa8f7280e0364794f438",
     "url": "/wedding/index.html"
   },
   {
-    "revision": "2b13b978f2566463b774",
-    "url": "/wedding/static/css/main.10efb0bc.chunk.css"
+    "revision": "b8d838b609d4ca98b666",
+    "url": "/wedding/static/css/main.275415f7.chunk.css"
   },
   {
-    "revision": "a3a060b19f10e6478b50",
-    "url": "/wedding/static/js/2.8f59d059.chunk.js"
+    "revision": "4a1a4b51a4742ba87085",
+    "url": "/wedding/static/js/2.6cf74c40.chunk.js"
   },
   {
     "revision": "8a137f586fcebb1a370343eb47b7677c",
-    "url": "/wedding/static/js/2.8f59d059.chunk.js.LICENSE.txt"
+    "url": "/wedding/static/js/2.6cf74c40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b13b978f2566463b774",
-    "url": "/wedding/static/js/main.504df20f.chunk.js"
+    "revision": "b8d838b609d4ca98b666",
+    "url": "/wedding/static/js/main.7c14af9b.chunk.js"
   },
   {
     "revision": "b50ba5e10c27a25a169d",
     "url": "/wedding/static/js/runtime-main.881adc8b.js"
-  },
-  {
-    "revision": "81807f549c75fc3dcde7a54397359a58",
-    "url": "/wedding/static/media/NanumSquareB.81807f54.eot"
-  },
-  {
-    "revision": "ada293a44f5ee12a368fa75d4e7f360f",
-    "url": "/wedding/static/media/NanumSquareB.ada293a4.woff"
-  },
-  {
-    "revision": "e850eb664f41c0828a8aac6f1d09b643",
-    "url": "/wedding/static/media/NanumSquareB.e850eb66.ttf"
-  },
-  {
-    "revision": "0029b8a5a16ce106b0bf5ac8ea23de04",
-    "url": "/wedding/static/media/NanumSquareEB.0029b8a5.woff"
-  },
-  {
-    "revision": "9b98722f867c623aada9f479cdfa7924",
-    "url": "/wedding/static/media/NanumSquareEB.9b98722f.eot"
-  },
-  {
-    "revision": "9ee5085e37e8ac9dd4aa44813d9b924a",
-    "url": "/wedding/static/media/NanumSquareEB.9ee5085e.ttf"
-  },
-  {
-    "revision": "da1e0ddddc753bc188167eba4e05faae",
-    "url": "/wedding/static/media/NanumSquareL.da1e0ddd.eot"
-  },
-  {
-    "revision": "f2a56a3bef1a85a94f09f8d4ffe5eb46",
-    "url": "/wedding/static/media/NanumSquareL.f2a56a3b.ttf"
-  },
-  {
-    "revision": "fa92696350da81f5da13e4563d9326db",
-    "url": "/wedding/static/media/NanumSquareL.fa926963.woff"
-  },
-  {
-    "revision": "05c46ab6133e58f7b2ddd2b169ab6842",
-    "url": "/wedding/static/media/NanumSquareR.05c46ab6.ttf"
-  },
-  {
-    "revision": "1d2032162df7cc5a15dc6657c602a55c",
-    "url": "/wedding/static/media/NanumSquareR.1d203216.eot"
-  },
-  {
-    "revision": "4217b4ceadd4de6e77694b22b240e64c",
-    "url": "/wedding/static/media/NanumSquareR.4217b4ce.woff"
   },
   {
     "revision": "bc695db2755365eaaf7b5502a34f56eb",
