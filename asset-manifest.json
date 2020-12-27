@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.efce149b.chunk.css",
+    "main.css": "/wedding/static/css/main.097dd9f0.chunk.css",
     "main.js": "/wedding/static/js/main.f3f42901.chunk.js",
     "main.js.map": "/wedding/static/js/main.f3f42901.chunk.js.map",
     "runtime-main.js": "/wedding/static/js/runtime-main.881adc8b.js",
@@ -8,9 +8,9 @@
     "static/js/2.6cf74c40.chunk.js": "/wedding/static/js/2.6cf74c40.chunk.js",
     "static/js/2.6cf74c40.chunk.js.map": "/wedding/static/js/2.6cf74c40.chunk.js.map",
     "index.html": "/wedding/index.html",
-    "precache-manifest.31ef709bb680c728442b11e79de733c7.js": "/wedding/precache-manifest.31ef709bb680c728442b11e79de733c7.js",
+    "precache-manifest.f6a379e7a6ade401b2f68d2a989d17cd.js": "/wedding/precache-manifest.f6a379e7a6ade401b2f68d2a989d17cd.js",
     "service-worker.js": "/wedding/service-worker.js",
-    "static/css/main.efce149b.chunk.css.map": "/wedding/static/css/main.efce149b.chunk.css.map",
+    "static/css/main.097dd9f0.chunk.css.map": "/wedding/static/css/main.097dd9f0.chunk.css.map",
     "static/js/2.6cf74c40.chunk.js.LICENSE.txt": "/wedding/static/js/2.6cf74c40.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/wedding/static/media/popup-close.d69adad3.svg",
     "static/media/swiper.scss": "/wedding/static/media/ic-loading.85f4a44c.svg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.881adc8b.js",
     "static/js/2.6cf74c40.chunk.js",
-    "static/css/main.efce149b.chunk.css",
+    "static/css/main.097dd9f0.chunk.css",
     "static/js/main.f3f42901.chunk.js"
   ]
 }
