@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.097dd9f0.chunk.css",
-    "main.js": "/wedding/static/js/main.f3f42901.chunk.js",
-    "main.js.map": "/wedding/static/js/main.f3f42901.chunk.js.map",
+    "main.css": "/wedding/static/css/main.04a579a7.chunk.css",
+    "main.js": "/wedding/static/js/main.ad33fe71.chunk.js",
+    "main.js.map": "/wedding/static/js/main.ad33fe71.chunk.js.map",
     "runtime-main.js": "/wedding/static/js/runtime-main.881adc8b.js",
     "runtime-main.js.map": "/wedding/static/js/runtime-main.881adc8b.js.map",
     "static/js/2.6cf74c40.chunk.js": "/wedding/static/js/2.6cf74c40.chunk.js",
     "static/js/2.6cf74c40.chunk.js.map": "/wedding/static/js/2.6cf74c40.chunk.js.map",
     "index.html": "/wedding/index.html",
-    "precache-manifest.f6a379e7a6ade401b2f68d2a989d17cd.js": "/wedding/precache-manifest.f6a379e7a6ade401b2f68d2a989d17cd.js",
+    "precache-manifest.c8fde15a9de498f28b8e7c3f4761dd01.js": "/wedding/precache-manifest.c8fde15a9de498f28b8e7c3f4761dd01.js",
     "service-worker.js": "/wedding/service-worker.js",
-    "static/css/main.097dd9f0.chunk.css.map": "/wedding/static/css/main.097dd9f0.chunk.css.map",
+    "static/css/main.04a579a7.chunk.css.map": "/wedding/static/css/main.04a579a7.chunk.css.map",
     "static/js/2.6cf74c40.chunk.js.LICENSE.txt": "/wedding/static/js/2.6cf74c40.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/wedding/static/media/popup-close.d69adad3.svg",
     "static/media/swiper.scss": "/wedding/static/media/ic-loading.85f4a44c.svg",
-    "static/media/calText.4bddcff4.svg": "/wedding/static/media/calText.4bddcff4.svg",
     "static/media/full_1.jpg": "/wedding/static/media/full_1.0b6eff4d.jpg",
     "static/media/full_10.jpg": "/wedding/static/media/full_10.bf86aab9.jpg",
     "static/media/full_11.jpg": "/wedding/static/media/full_11.773efaf5.jpg",
@@ -58,7 +57,7 @@
   "entrypoints": [
     "static/js/runtime-main.881adc8b.js",
     "static/js/2.6cf74c40.chunk.js",
-    "static/css/main.097dd9f0.chunk.css",
-    "static/js/main.f3f42901.chunk.js"
+    "static/css/main.04a579a7.chunk.css",
+    "static/js/main.ad33fe71.chunk.js"
   ]
 }
